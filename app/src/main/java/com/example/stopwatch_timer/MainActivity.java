@@ -36,7 +36,7 @@ public class MainActivity extends Activity {
 
     public void onClickStop(View view){
         startRun=false;
-        seconds=0;
+
     }
 
     public void onClickReset(View view){
